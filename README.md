@@ -1,5 +1,7 @@
 # Full Next.js Stackbit Starter
 
+### 👉 This repository is archived, for an up-to-date Stackbit Next.js starters [see here](https://github.com/stackbit-themes).
+
 ![Full Stackbit Starter](https://assets.stackbit.com/docs/full-starter-thumb.png)
 
 This is a multi-page, production-ready project built with Next.js and Tailwind, equipped with visual editing capabilities using Stackbit. It uses markdown files as the content source. See below for [other Stackbit example projects](#other-stackbit-projects).
